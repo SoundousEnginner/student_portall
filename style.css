@@ -1,0 +1,9 @@
+/* styles/style.css */
+body {
+  font-family: var(--bs-body-font-family); /* استعمال الخط الافتراضي ديال Bootstrap */
+}
+
+
+.card {
+  box-shadow: var(--bs-box-shadow-sm); /* ولا تقدر تستخدم: var(--bs-box-shadow) */
+}
